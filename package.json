@@ -1,0 +1,28 @@
+{
+  "name": "php-coding-standards",
+  "version": "1.0.0",
+  "description": "Atomic Smash PHP coding standards",
+  "keywords": [
+    "phpcs",
+    "coding",
+    "standards"
+  ],
+  "homepage": "https://github.com/AtomicSmash/php-coding-standards#readme",
+  "bugs": {
+    "url": "https://github.com/AtomicSmash/php-coding-standards/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtomicSmash/php-coding-standards.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "Atomic Smash <developers@atomicsmash.co.uk>",
+  "type": "commonjs",
+  "main": "composer.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.28.1"
+  }
+}
