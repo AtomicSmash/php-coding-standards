@@ -4,10 +4,10 @@
 	<exclude-pattern>*/vendor/*</exclude-pattern>
 	<arg name="extensions" value="php" />
 	<arg value="sp"/>
-	<arg name="parallel" value="20"/>
+	<arg name="parallel" value="8"/>
 	<arg name="cache"/>
 	<arg name="report" value="summary"/>
-	<ini name="memory_limit" value="256M"/>
+	<ini name="memory_limit" value="512M"/>
 	<rule ref="WordPress">
 		<exclude name="Generic.Formatting.MultipleStatementAlignment"/>
 		<exclude name="WordPress.Arrays.MultipleStatementAlignment"/>
