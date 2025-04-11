@@ -1,0 +1,12 @@
+{
+  "name": "compiler-helpers",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This package handles the dependencies and config for the PHP coding standards.",
+  "scripts": {
+    "publish": "changeset tag"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.28.1"
+  }
+}
