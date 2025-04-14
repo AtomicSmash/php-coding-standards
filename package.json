@@ -1,5 +1,5 @@
 {
-  "name": "compiler-helpers",
+  "name": "php-coding-standards",
   "private": true,
   "version": "1.0.0",
   "description": "This package handles the dependencies and config for the PHP coding standards.",
