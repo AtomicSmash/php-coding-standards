@@ -1,7 +1,7 @@
 {
   "name": "php-coding-standards",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package handles the dependencies and config for the PHP coding standards.",
   "scripts": {
     "publish": "changeset tag"
