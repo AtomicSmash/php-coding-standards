@@ -55,7 +55,6 @@
 		<exclude name="SlevomatCodingStandard.TypeHints.ParameterTypeHint.UselessAnnotation"/>
 	</rule>
 	<rule ref="SlevomatCodingStandard.TypeHints.NullableTypeForNullDefaultValue"/>
-	<rule ref="SlevomatCodingStandard.TypeHints.DisallowMixedTypeHint"/>
 	<rule ref="SlevomatCodingStandard.TypeHints.LongTypeHints"/>
 	<rule ref="SlevomatCodingStandard.TypeHints.ParameterTypeHintSpacing"/>
 	<rule ref="SlevomatCodingStandard.TypeHints.ReturnTypeHintSpacing"/>
