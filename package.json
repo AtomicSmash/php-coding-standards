@@ -7,6 +7,6 @@
     "publish": "changeset tag"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.28.1"
+    "@changesets/cli": "^2.29.5"
   }
 }
